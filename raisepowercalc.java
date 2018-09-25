@@ -3,7 +3,7 @@ class raisepowercalc
 {
 	public static int calpower(int i,int j)
 	{
-		if(y==0)
+		if(j==0)
 {
 			return 0;
 }
