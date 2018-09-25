@@ -10,7 +10,7 @@ class raisepowercalc
 
 		else if(j==1)
 {
-			return x;
+			return i;
 }
 		else
 {
